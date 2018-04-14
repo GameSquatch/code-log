@@ -1,0 +1,7 @@
+Here is where I will log my codes for the day. Not sure why I
+am doing this, but I probably should just to keep practicing git.
+
+4/14/2018
+I finished a Udacity course on git where I learned a bunch of stuff
+that will help me use version control and possibly contribute to an
+open-source project in the future.
