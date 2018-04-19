@@ -5,3 +5,16 @@ am doing this, but I probably should just to keep practicing git.
 I finished a Udacity course on git where I learned a bunch of stuff
 that will help me use version control and possibly contribute to an
 open-source project in the future.
+
+4/15/2018
+I started applying git to some of my projects that I had already
+started to see how it would start benefiting me. I did it to
+TextGame and CardDraw, but I haven't really had a nice, relaxing
+time to sit down and make changes to either of those documents.
+I also think this will be really nice for web codes too.
+
+4/18/2018
+I did some coding in the car on our hunting road trip. I made
+some changes to TextGame, because I want to finally finish that
+game already. I've made so many non-working versions. I just want
+one to play with.
